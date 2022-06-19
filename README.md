@@ -37,10 +37,10 @@
 ![](https://activity-graph.herokuapp.com/graph?username=TejasSheth104&theme=github)
 
 ### Connect with me:
-[<img src = "https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=black" />][linkedin]
-[<img src = "https://img.shields.io/badge/gmail-%23E4405F.svg?&style=for-the-badge&logo=gmail&logoColor=black">][gmail]
-[<img src = "https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=black" />][twitter1]
-[<img src = "https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=black">][instagram]
+[<img src = "https://img.shields.io/badge/linkedin-%230077B5.svg?&logo=linkedin&logoColor=black" />][linkedin]
+[<img src = "https://img.shields.io/badge/gmail-%23E4405F.svg?&logo=gmail&logoColor=black">][gmail]
+[<img src = "https://img.shields.io/badge/twitter-%231DA1F2.svg?&logo=twitter&logoColor=black" />][twitter1]
+[<img src = "https://img.shields.io/badge/Instagram-E4405F?&logo=instagram&logoColor=black">][instagram]
 
 [instagram]: https://instagram.com/s.tejas01
 [linkedin]: https://www.linkedin.com/in/tejas-sheth-13149a1a7/
