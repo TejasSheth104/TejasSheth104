@@ -1,6 +1,11 @@
-<h1 align="center"> Hi there 👋, I'm Tejas Sheth </h1>
+<h1 align="center"> Hey there 👋, I'm Tejas Sheth 
+  <img align="right" src="https://komarev.com/ghpvc/?username=TejasSheth104&color=blue" alt="TejasSheth104"/>
+</h1>
 
-#### Making a computer understand is easier than making a Human understand.
+<h4 align="right">- Making a computer understand is easier than making a Human understand. </h4>
+
+<p> 
+</p>
 
 ## ⚡ Technologies -
 ### Languages :
@@ -36,10 +41,10 @@
 
 ![](https://activity-graph.herokuapp.com/graph?username=TejasSheth104&theme=github)
 
-### Connect with me:
-[<img src = "https://img.shields.io/badge/linkedin-%230077B5.svg?&logo=linkedin&logoColor=black" />][linkedin]
-[<img src = "https://img.shields.io/badge/gmail-%23E4405F.svg?&logo=gmail&logoColor=black">][gmail]
-[<img src = "https://img.shields.io/badge/twitter-%231DA1F2.svg?&logo=twitter&logoColor=black" />][twitter1]
+### Let's Connect 🤝: 
+[<img src = "https://img.shields.io/badge/Linkedin-%230077B5.svg?&logo=linkedin&logoColor=black" />][linkedin]
+[<img src = "https://img.shields.io/badge/Gmail-%23E4405F.svg?&logo=gmail&logoColor=black">][gmail]
+[<img src = "https://img.shields.io/badge/Twitter-%231DA1F2.svg?&logo=twitter&logoColor=black" />][twitter1]
 [<img src = "https://img.shields.io/badge/Instagram-E4405F?&logo=instagram&logoColor=black">][instagram]
 
 [instagram]: https://instagram.com/s.tejas01
