@@ -24,6 +24,7 @@
 <a href="#"><img alt="NumPy" src="https://img.shields.io/badge/Numpy%20-%23013243.svg?logo=numpy&logoColor=white"></a>
 <a href="#"><img alt="Pandas" src="https://img.shields.io/badge/Pandas%20-%23150458.svg?logo=pandas&logoColor=white"></a>
 <a href="#"><img alt="Redux" src="https://img.shields.io/badge/Redux-593D88?logo=redux&logoColor=white"></a>
+Storybook
 
 ### DevOps & Cloud Tools:
 <a href="#"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?logo=github&logoColor=white"></a>
@@ -46,7 +47,9 @@
 [<img src = "https://img.shields.io/badge/Gmail-%23E4405F.svg?&logo=gmail&logoColor=black">][gmail]
 [<img src = "https://img.shields.io/badge/Twitter-%231DA1F2.svg?&logo=twitter&logoColor=black" />][twitter1]
 [<img src = "https://img.shields.io/badge/Instagram-E4405F?&logo=instagram&logoColor=black">][instagram]
+[<img src = "https://img.shields.io/badge/Instagram-E4405F?&logo=medium&logoColor=black">][medium]
 
+[medium]: 
 [instagram]: https://instagram.com/s.tejas01
 [linkedin]: https://www.linkedin.com/in/tejas-sheth-13149a1a7/
 [gmail]: mailto:http://www.tejas.sheth04@gmail.com
