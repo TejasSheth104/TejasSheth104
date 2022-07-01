@@ -49,7 +49,7 @@ Storybook
 [<img src = "https://img.shields.io/badge/Instagram-E4405F?&logo=instagram&logoColor=black">][instagram]
 [<img src = "https://img.shields.io/badge/Medium-E4405F?&logo=medium&logoColor=black">][medium]
 
-[medium]: https://medium.com
+[medium]: https://medium.com/@tejas.sheth04
 [instagram]: https://instagram.com/s.tejas01
 [linkedin]: https://www.linkedin.com/in/tejas-sheth-13149a1a7/
 [gmail]: mailto:http://www.tejas.sheth04@gmail.com
