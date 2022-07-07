@@ -50,7 +50,7 @@ Storybook
 [<img src = "https://img.shields.io/badge/Medium-E4405F?&logo=medium&logoColor=black">][medium]
 
 [medium]: https://medium.com/@tejas.sheth04
-[instagram]: https://instagram.com/s.tejas01
+[instagram]: https://instagram.com/tejassheth104
 [linkedin]: https://www.linkedin.com/in/tejas-sheth-13149a1a7/
 [gmail]: mailto:http://www.tejas.sheth04@gmail.com
-[twitter1]: https://twitter.com/s_tejas01
+[twitter1]: https://twitter.com/TejasSheth104
