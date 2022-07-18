@@ -1,6 +1,8 @@
-<h1 align="center"> Hey there 👋, I'm Tejas Sheth 
+<h1 align="center"> Hey there 👋, I'm <a href="http://tejas-sheth.netlify.app/">Tejas Sheth </a>
   <img align="right" src="https://komarev.com/ghpvc/?username=TejasSheth104&color=blue" alt="TejasSheth104"/>
 </h1>
+
+<!-- <a href="http://tejas-sheth.netlify.app/">Portfolio</a> -->
 
 <h4 align="right">- Making a computer understand is easier than making a Human understand. </h4>
 
