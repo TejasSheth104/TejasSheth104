@@ -1,5 +1,5 @@
 <!-- <h1 align="center"> Hey there 👋, I'm <a href="http://tejas-sheth.netlify.app/">Tejas Sheth </a> -->
-<h1 align="center"> Hey there 👋, I'm Tejas Sheth 
+<h1 align="center"> Hey, I'm Tejas Sheth 
   <img align="right" src="https://komarev.com/ghpvc/?username=TejasSheth104&color=blue" alt="TejasSheth104"/>
 </h1>
 
