@@ -51,7 +51,7 @@
 [<img src = "https://img.shields.io/badge/Gmail-%23E4405F.svg?&logo=gmail&logoColor=black">][gmail]
 [<img src = "https://img.shields.io/badge/Twitter-%231DA1F2.svg?&logo=twitter&logoColor=black" />][twitter1]
 [<img src = "https://img.shields.io/badge/Instagram-E4405F?&logo=instagram&logoColor=black">][instagram]
-[<img src = "https://img.shields.io/badge/Medium-E4405F?&logo=medium&logoColor=black">][medium]
+<!-- [<img src = "https://img.shields.io/badge/Medium-E4405F?&logo=medium&logoColor=black">][medium] -->
 
 [medium]: https://medium.com/@tejas.sheth04
 [instagram]: https://instagram.com/tejassheth104
