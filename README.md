@@ -1,5 +1,5 @@
 <!-- <h1 align="center"> Hey there 👋, I'm <a href="http://tejas-sheth.netlify.app/">Tejas Sheth </a> -->
-<h1 align="center"> Hey, I'm Tejas Sheth 
+<h1 align="center"> Hey there 👋, I'm Tejas Sheth 
   <img align="right" src="https://komarev.com/ghpvc/?username=TejasSheth104&color=blue" alt="TejasSheth104"/>
 </h1>
 
@@ -51,7 +51,7 @@
 [<img src = "https://img.shields.io/badge/Gmail-%23E4405F.svg?&logo=gmail&logoColor=black">][gmail]
 [<img src = "https://img.shields.io/badge/Twitter-%231DA1F2.svg?&logo=twitter&logoColor=black" />][twitter1]
 [<img src = "https://img.shields.io/badge/Instagram-E4405F?&logo=instagram&logoColor=black">][instagram]
-<!-- [<img src = "https://img.shields.io/badge/Medium-E4405F?&logo=medium&logoColor=black">][medium] -->
+[<img src = "https://img.shields.io/badge/Medium-E4405F?&logo=medium&logoColor=black">][medium]
 
 [medium]: https://medium.com/@tejas.sheth04
 [instagram]: https://instagram.com/tejassheth104
